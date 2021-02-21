@@ -1,0 +1,84 @@
+{
+    "Mon": {
+        "22:03": [
+            "Class-1",
+            "https://meet.google.com/xjd-piuu-xjg"
+        ],
+        "21:04": [
+            "Class-2",
+            "https://meet.google.com/xjd-piuu-xjg"
+        ],
+        "12:00": [
+            "MATH-L",
+            "https://meet.google.com"
+        ],
+        "13:00": [
+            "MATH",
+            "https://google.com/ufg"
+        ]
+    },
+    "Tue": {
+        "9:00": [
+            "CS",
+            "https://meet.google.com"
+        ],
+        "11:00": [
+            "CS-L",
+            "https://meet.google.com"
+        ],
+        "12:00": [
+            "CS-L",
+            "https://meet.google.com"
+        ],
+        "13:00": [
+            "MATH",
+            "https://meet.google.com"
+        ]
+    },
+    "Wed": {
+        "10:00": [
+            "MATH-L",
+            "https://meet.google.com"
+        ],
+        "11:00": [
+            "PHY",
+            "https://meet.google.com"
+        ],
+        "12:00": [
+            "CS-L",
+            "https://meet.google.com"
+        ],
+        "15:00": [
+            "CS",
+            "https://meet.google.com"
+        ]
+    },
+    "Thu": {
+        "19:01": [
+            "CS",
+            "https://meet.google.com"
+        ],
+        "19:05": [
+            "CS-L",
+            "https://meet.google.com"
+        ],
+        "13:00": [
+            "MATH",
+            "https://meet.google.com"
+        ]
+    },
+    "Fri": {
+        "11:00": [
+            "PHY",
+            "https://meet.google.com"
+        ],
+        "15:00": [
+            "CS-L",
+            "https://meet.google.com"
+        ],
+        "16:00": [
+            "CS-L",
+            "https://meet.google.com"
+        ]
+    }
+}
